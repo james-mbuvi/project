@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "p1.jpeg",
+      "price": 800
+    },
+    {
+      "id": 2,
+      "name": "burger",
+      "image": "bugger.jpeng",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "chicken",
+      "image": "c.png",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "name": "hot dog",
+      "image": "hd.jpeng",
+      "price": 200
+    }
+  ]
+ }
